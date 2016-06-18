@@ -1,0 +1,20 @@
+#hn{font-family: cursive;
+color:rgba(200,250,150,.88);
+font-size:xx-large !important;}
+#headings{font-family:Comics Sans MS;
+color:#6A924A;}
+.closed{display: none;}
+.open{display: block;}
+#menu{font-family: sans-serif;
+font-style: oblique;
+color:#DDFFEE;}
+form{font-family:Helvetica;
+	color:red;
+font-style: italic;}
+header{font-variant: small-caps;
+	text-align:center;}
+img{height:50%;
+	width:50%;}
+p{display: inline;}
+body{background-color: #0F0F0F;}
+color: red;}
